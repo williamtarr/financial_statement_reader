@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 import pandas as pd
 
 # Set your OpenAI API key
