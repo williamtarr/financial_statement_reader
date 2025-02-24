@@ -183,6 +183,456 @@ const TABLE_DATA: Record<number, any> = {
         "Total depreciation and amortization": "$561"
       }
     }
+  },
+  58: {
+    "Consolidated Statements of Operations (as a percentage of revenue)": {
+      "2022": {
+        "Revenue": "100%",
+        "Cost of revenue (exclusive of depreciation and amortization)": "54%",
+        "Sales and marketing": "26%",
+        "Research and development": "13%",
+        "General and administrative": "17%",
+        "Depreciation and amortization": "6%",
+        "Restructuring charges": "1%",
+        "Total costs and expenses": "117%",
+        "Loss from operations": "(17%)",
+        "Interest income, net": "1%",
+        "Other expense, net": "(5%)",
+        "Income (loss) before income taxes": "(21%)",
+        "Provision for (benefit from) income taxes": "0%",
+        "Net income (loss) including redeemable non-controlling interests": "(21%)",
+        "Less: Net loss attributable to redeemable non-controlling interests": "0%",
+        "Net income (loss) attributable to DoorDash, Inc. common stockholders": "(21%)"
+      },
+      "2023": {
+        "Revenue": "100%",
+        "Cost of revenue (exclusive of depreciation and amortization)": "53%",
+        "Sales and marketing": "22%",
+        "Research and development": "12%",
+        "General and administrative": "14%",
+        "Depreciation and amortization": "6%",
+        "Restructuring charges": "0%",
+        "Total costs and expenses": "107%",
+        "Loss from operations": "(7%)",
+        "Interest income, net": "2%",
+        "Other expense, net": "(1%)",
+        "Income (loss) before income taxes": "(6%)",
+        "Provision for (benefit from) income taxes": "0%",
+        "Net income (loss) including redeemable non-controlling interests": "(6%)",
+        "Less: Net loss attributable to redeemable non-controlling interests": "0%",
+        "Net income (loss) attributable to DoorDash, Inc. common stockholders": "(6%)"
+      },
+      "2024": {
+        "Revenue": "100%",
+        "Cost of revenue (exclusive of depreciation and amortization)": "52%",
+        "Sales and marketing": "19%",
+        "Research and development": "11%",
+        "General and administrative": "14%",
+        "Depreciation and amortization": "5%",
+        "Restructuring charges": "0%",
+        "Total costs and expenses": "101%",
+        "Loss from operations": "(1%)",
+        "Interest income, net": "2%",
+        "Other expense, net": "0%",
+        "Income (loss) before income taxes": "1%",
+        "Provision for (benefit from) income taxes": "0%",
+        "Net income (loss) including redeemable non-controlling interests": "1%",
+        "Less: Net loss attributable to redeemable non-controlling interests": "0%",
+        "Net income (loss) attributable to DoorDash, Inc. common stockholders": "1%"
+      }
+    },
+    "Revenue Comparison": {
+      "2022": {
+        "Revenue": "$6,583"
+      },
+      "2023": {
+        "Revenue": "$8,635"
+      },
+      "2024": {
+        "Revenue": "$10,722",
+        "$ Change": "$2,087",
+        "% Change": "24%"
+      }
+    }
+  },
+  59: {
+    "Cost of Revenue Comparison": {
+      "2022": {
+        "Cost of Revenue": "$3,588"
+      },
+      "2023": {
+        "Cost of Revenue": "$4,589"
+      },
+      "2024": {
+        "Cost of Revenue": "$5,542",
+        "$ Change": "$953",
+        "% Change": "21%"
+      }
+    },
+    "Sales and Marketing Comparison": {
+      "2022": {
+        "Sales and Marketing": "$1,682"
+      },
+      "2023": {
+        "Sales and Marketing": "$1,876"
+      },
+      "2024": {
+        "Sales and Marketing": "$2,037",
+        "$ Change": "$161",
+        "% Change": "9%"
+      }
+    },
+    "Research and Development Comparison": {
+      "2022": {
+        "Research and Development": "$829"
+      },
+      "2023": {
+        "Research and Development": "$1,003"
+      },
+      "2024": {
+        "Research and Development": "$1,168",
+        "$ Change": "$165",
+        "% Change": "16%"
+      }
+    }
+  },
+  60: {
+    "General and Administrative Comparison": {
+      "2022": {
+        "General and Administrative": "$1,147"
+      },
+      "2023": {
+        "General and Administrative": "$1,235"
+      },
+      "2024": {
+        "General and Administrative": "$1,452",
+        "$ Change": "$217",
+        "% Change": "18%"
+      }
+    },
+    "Depreciation and Amortization Comparison": {
+      "2022": {
+        "Depreciation and Amortization": "$369"
+      },
+      "2023": {
+        "Depreciation and Amortization": "$509"
+      },
+      "2024": {
+        "Depreciation and Amortization": "$561",
+        "$ Change": "$52",
+        "% Change": "10%"
+      }
+    },
+    "Restructuring Charges Comparison": {
+      "2022": {
+        "Restructuring Charges": "$92"
+      },
+      "2023": {
+        "Restructuring Charges": "$2"
+      },
+      "2024": {
+        "Restructuring Charges": "$0",
+        "$ Change": "($2)",
+        "% Change": "*Not meaningful*"
+      }
+    },
+    "Interest Income Comparison": {
+      "2022": {
+        "Interest Income, Net": "$30"
+      },
+      "2023": {
+        "Interest Income, Net": "$152"
+      },
+      "2024": {
+        "Interest Income, Net": "$199",
+        "$ Change": "$47",
+        "% Change": "31%"
+      }
+    },
+    "Other Expense Comparison": {
+      "2022": {
+        "Other Expense, Net": "($305)"
+      },
+      "2023": {
+        "Other Expense, Net": "($107)"
+      },
+      "2024": {
+        "Other Expense, Net": "($5)",
+        "$ Change": "$102",
+        "% Change": "(95%)"
+      }
+    }
+  },
+  61: {
+    "Provision for Income Taxes Comparison": {
+      "2022": {
+        "Provision for (Benefit from) Income Taxes": "($31)"
+      },
+      "2023": {
+        "Provision for (Benefit from) Income Taxes": "$31"
+      },
+      "2024": {
+        "Provision for (Benefit from) Income Taxes": "$39",
+        "$ Change": "$8",
+        "% Change": "*Not meaningful*"
+      }
+    }
+  },
+  62: {
+    "Adjusted Cost of Revenue": {
+      "2022": {
+        "Cost of Revenue (exclusive of depreciation and amortization)": "$3,588",
+        "Stock-Based Compensation & Payroll Tax Expense": "($103)",
+        "Allocated Overhead": "($32)",
+        "Inventory Write-Off Related to Restructuring": "($2)",
+        "Adjusted Cost of Revenue": "$3,451"
+      },
+      "2023": {
+        "Cost of Revenue (exclusive of depreciation and amortization)": "$4,589",
+        "Stock-Based Compensation & Payroll Tax Expense": "($140)",
+        "Allocated Overhead": "($32)",
+        "Inventory Write-Off Related to Restructuring": "N/A",
+        "Adjusted Cost of Revenue": "$4,417"
+      },
+      "2024": {
+        "Cost of Revenue (exclusive of depreciation and amortization)": "$5,542",
+        "Stock-Based Compensation & Payroll Tax Expense": "($153)",
+        "Allocated Overhead": "($35)",
+        "Inventory Write-Off Related to Restructuring": "N/A",
+        "Adjusted Cost of Revenue": "$5,354"
+      }
+    },
+    "Adjusted Sales and Marketing Expense": {
+      "2022": {
+        "Sales and Marketing": "$1,682",
+        "Stock-Based Compensation & Payroll Tax Expense": "($98)",
+        "Allocated Overhead": "($19)",
+        "Adjusted Sales and Marketing Expense": "$1,565"
+      },
+      "2023": {
+        "Sales and Marketing": "$1,876",
+        "Stock-Based Compensation & Payroll Tax Expense": "($119)",
+        "Allocated Overhead": "($21)",
+        "Adjusted Sales and Marketing Expense": "$1,736"
+      },
+      "2024": {
+        "Sales and Marketing": "$2,037",
+        "Stock-Based Compensation & Payroll Tax Expense": "($118)",
+        "Allocated Overhead": "($25)",
+        "Adjusted Sales and Marketing Expense": "$1,894"
+      }
+    }
+  },
+  63: {
+    "Adjusted Research and Development Expense": {
+      "2022": {
+        "Research and Development": "$829",
+        "Stock-Based Compensation & Payroll Tax Expense": "($366)",
+        "Allocated Overhead": "($16)",
+        "Adjusted Research and Development Expense": "$447"
+      },
+      "2023": {
+        "Research and Development": "$1,003",
+        "Stock-Based Compensation & Payroll Tax Expense": "($470)",
+        "Allocated Overhead": "($16)",
+        "Adjusted Research and Development Expense": "$517"
+      },
+      "2024": {
+        "Research and Development": "$1,168",
+        "Stock-Based Compensation & Payroll Tax Expense": "($507)",
+        "Allocated Overhead": "($23)",
+        "Adjusted Research and Development Expense": "$638"
+      }
+    },
+    "Adjusted General and Administrative Expense": {
+      "2022": {
+        "General and Administrative": "$1,147",
+        "Stock-Based Compensation & Payroll Tax Expense": "($313)",
+        "Legal, Tax, and Regulatory Settlements": "($72)",
+        "Transaction-Related Costs": "($68)",
+        "Office Lease Impairment Expenses": "($2)",
+        "Allocated Overhead": "$67",
+        "Adjusted General and Administrative Expense": "$759"
+      },
+      "2023": {
+        "General and Administrative": "$1,235",
+        "Stock-Based Compensation & Payroll Tax Expense": "($365)",
+        "Legal, Tax, and Regulatory Settlements": "($162)",
+        "Transaction-Related Costs": "($2)",
+        "Office Lease Impairment Expenses": "N/A",
+        "Allocated Overhead": "$69",
+        "Adjusted General and Administrative Expense": "$775"
+      },
+      "2024": {
+        "General and Administrative": "$1,452",
+        "Stock-Based Compensation & Payroll Tax Expense": "($329)",
+        "Legal, Tax, and Regulatory Settlements": "($180)",
+        "Transaction-Related Costs": "($7)",
+        "Office Lease Impairment Expenses": "($83)",
+        "Allocated Overhead": "$83",
+        "Adjusted General and Administrative Expense": "$936"
+      }
+    }
+  },
+  64: {
+    "Contribution Profit": {
+      "2022": {
+        "Revenue": "$6,583",
+        "Cost of Revenue (exclusive of depreciation and amortization)": "($3,588)",
+        "Depreciation and Amortization Related to Cost of Revenue": "($171)",
+        "Gross Profit": "$2,824",
+        "Gross Margin": "42.9%",
+        "Sales and Marketing": "($1,682)",
+        "Contribution Profit": "$1,567",
+        "Contribution Margin": "23.8%"
+      },
+      "2023": {
+        "Revenue": "$8,635",
+        "Cost of Revenue (exclusive of depreciation and amortization)": "($4,589)",
+        "Depreciation and Amortization Related to Cost of Revenue": "($186)",
+        "Gross Profit": "$3,860",
+        "Gross Margin": "44.7%",
+        "Sales and Marketing": "($1,876)",
+        "Contribution Profit": "$2,482",
+        "Contribution Margin": "28.7%"
+      },
+      "2024": {
+        "Revenue": "$10,722",
+        "Cost of Revenue (exclusive of depreciation and amortization)": "($5,542)",
+        "Depreciation and Amortization Related to Cost of Revenue": "($201)",
+        "Gross Profit": "$4,979",
+        "Gross Margin": "46.4%",
+        "Sales and Marketing": "($2,037)",
+        "Contribution Profit": "$3,474",
+        "Contribution Margin": "32.4%"
+      }
+    },
+    "Adjusted Gross Profit": {
+      "2022": {
+        "Gross Profit": "$2,824",
+        "Depreciation and Amortization Related to Cost of Revenue": "$171",
+        "Stock-Based Compensation & Payroll Tax Expense": "$103",
+        "Allocated Overhead": "$32",
+        "Inventory Write-Off Related to Restructuring": "$2",
+        "Adjusted Gross Profit": "$3,132",
+        "Adjusted Gross Margin": "47.6%"
+      },
+      "2023": {
+        "Gross Profit": "$3,860",
+        "Depreciation and Amortization Related to Cost of Revenue": "$186",
+        "Stock-Based Compensation & Payroll Tax Expense": "$140",
+        "Allocated Overhead": "$32",
+        "Inventory Write-Off Related to Restructuring": "N/A",
+        "Adjusted Gross Profit": "$4,218",
+        "Adjusted Gross Margin": "48.8%"
+      },
+      "2024": {
+        "Gross Profit": "$4,979",
+        "Depreciation and Amortization Related to Cost of Revenue": "$201",
+        "Stock-Based Compensation & Payroll Tax Expense": "$153",
+        "Allocated Overhead": "$35",
+        "Inventory Write-Off Related to Restructuring": "N/A",
+        "Adjusted Gross Profit": "$5,368",
+        "Adjusted Gross Margin": "50.1%"
+      }
+    }
+  },
+  65: {
+    "Net Income and Adjusted EBITDA": {
+      "2022": {
+        "Net Income (Loss) Attributable to DoorDash, Inc. Common Stockholders": "($1,365)",
+        "Net Loss Attributable to Redeemable Non-Controlling Interests": "($3)",
+        "Net Income (Loss) Including Redeemable Non-Controlling Interests": "($1,368)",
+        "Certain Legal, Tax, and Regulatory Settlements, Reserves, and Expenses": "$72",
+        "Transaction-Related Costs": "$68",
+        "Office Lease Impairment Expenses": "$2",
+        "Restructuring Charges": "$92",
+        "Inventory Write-Off Related to Restructuring": "$2",
+        "Provision for (Benefit from) Income Taxes": "($31)",
+        "Interest Income, Net": "($30)",
+        "Other Expense, Net": "$305",
+        "Stock-Based Compensation Expense and Certain Payroll Tax Expense": "$880",
+        "Depreciation and Amortization Expense": "$369",
+        "Adjusted EBITDA": "$361"
+      },
+      "2023": {
+        "Net Income (Loss) Attributable to DoorDash, Inc. Common Stockholders": "($558)",
+        "Net Loss Attributable to Redeemable Non-Controlling Interests": "($7)",
+        "Net Income (Loss) Including Redeemable Non-Controlling Interests": "($565)",
+        "Certain Legal, Tax, and Regulatory Settlements, Reserves, and Expenses": "$162",
+        "Transaction-Related Costs": "$2",
+        "Office Lease Impairment Expenses": "N/A",
+        "Restructuring Charges": "$2",
+        "Inventory Write-Off Related to Restructuring": "N/A",
+        "Provision for (Benefit from) Income Taxes": "$31",
+        "Interest Income, Net": "($152)",
+        "Other Expense, Net": "$107",
+        "Stock-Based Compensation Expense and Certain Payroll Tax Expense": "$1,094",
+        "Depreciation and Amortization Expense": "$509",
+        "Adjusted EBITDA": "$1,190"
+      },
+      "2024": {
+        "Net Income (Loss) Attributable to DoorDash, Inc. Common Stockholders": "$123",
+        "Net Loss Attributable to Redeemable Non-Controlling Interests": "N/A",
+        "Net Income (Loss) Including Redeemable Non-Controlling Interests": "$117",
+        "Certain Legal, Tax, and Regulatory Settlements, Reserves, and Expenses": "$180",
+        "Transaction-Related Costs": "N/A",
+        "Office Lease Impairment Expenses": "($83)",
+        "Restructuring Charges": "N/A",
+        "Inventory Write-Off Related to Restructuring": "N/A",
+        "Provision for (Benefit from) Income Taxes": "$39",
+        "Interest Income, Net": "($199)",
+        "Other Expense, Net": "N/A",
+        "Stock-Based Compensation Expense and Certain Payroll Tax Expense": "$1,107",
+        "Depreciation and Amortization Expense": "$561",
+        "Adjusted EBITDA": "$1,900"
+      }
+    },
+    "Free Cash Flow": {
+      "2022": {
+        "Net Cash Provided by Operating Activities": "$367",
+        "Purchases of Property and Equipment": "($176)",
+        "Capitalized Software and Website Development Costs": "($170)",
+        "Free Cash Flow": "$21"
+      },
+      "2023": {
+        "Net Cash Provided by Operating Activities": "$1,673",
+        "Purchases of Property and Equipment": "($123)",
+        "Capitalized Software and Website Development Costs": "($201)",
+        "Free Cash Flow": "$1,349"
+      },
+      "2024": {
+        "Net Cash Provided by Operating Activities": "$2,132",
+        "Purchases of Property and Equipment": "($104)",
+        "Capitalized Software and Website Development Costs": "($226)",
+        "Free Cash Flow": "$1,802"
+      }
+    }
+  },
+  67: {
+    "Cash Flow Summary": {
+      "2022": {
+        "Net Cash Provided by Operating Activities": "$367",
+        "Net Cash Used in Investing Activities": "($300)",
+        "Net Cash Used in Financing Activities": "($375)",
+        "Foreign Currency Effect on Cash, Cash Equivalents, and Restricted Cash": "($10)",
+        "Net Increase (Decrease) in Cash, Cash Equivalents, and Restricted Cash": "($318)"
+      },
+      "2023": {
+        "Net Cash Provided by Operating Activities": "$1,673",
+        "Net Cash Used in Investing Activities": "($342)",
+        "Net Cash Used in Financing Activities": "($752)",
+        "Foreign Currency Effect on Cash, Cash Equivalents, and Restricted Cash": "$5",
+        "Net Increase (Decrease) in Cash, Cash Equivalents, and Restricted Cash": "$584"
+      },
+      "2024": {
+        "Net Cash Provided by Operating Activities": "$2,132",
+        "Net Cash Used in Investing Activities": "($444)",
+        "Net Cash Used in Financing Activities": "($204)",
+        "Foreign Currency Effect on Cash, Cash Equivalents, and Restricted Cash": "($35)",
+        "Net Increase (Decrease) in Cash, Cash Equivalents, and Restricted Cash": "$1,449"
+      }
+    }
   }
 };
 
